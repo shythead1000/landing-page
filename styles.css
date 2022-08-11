@@ -92,3 +92,20 @@ button{
     font-weight: bolder;
     color:#1F2937;
 }
+
+.sec-three {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    color:#1F2937;
+    font-size: 36px;
+    font-style: italic;
+    padding: 40px 180px;
+}
+
+#author {
+    margin-left: auto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+}
