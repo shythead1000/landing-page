@@ -101,7 +101,7 @@ button{
     color:#1F2937;
     font-size: 36px;
     font-style: italic;
-    padding: 40px 180px;
+    padding: 40px 250px;
 }
 
 #author {
@@ -135,4 +135,12 @@ button{
 #header-four {
     font-size: 20px;
     font-weight: bold;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: white;
+    padding: 30px;
 }
